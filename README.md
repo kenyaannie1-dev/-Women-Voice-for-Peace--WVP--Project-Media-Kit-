@@ -3,6 +3,7 @@
 I designed a 16-page media kit for the **Women’s Voice for Peace (WVP) Project**, implemented by **UmunthuPlus** in **Nkhotakota District, Malawi**Using **Canva**, I transformed detailed project information into a clear, visually engaging communication tool for stakeholders, partners, donors, and community audiences.
 
 My role focused on designing the layout, organising complex information, creating a strong visual hierarchy, and ensuring the final media kit was professional, accessible, and aligned with the project’s advocacy goals.
+![Media-Kit-Cover-Page](previews/media-kit-cover.png)
 ## Project Overview
 The WVP Project is a 24-month initiative running from **1 January 2024 to 31 December 2025**. It was funded by the **Women’s Peace and Humanitarian Fund (WPHF)** through **UN Women Malawi** and implemented by **UmunthuPlus** in **Nkhotakota District, Central Region, Malawi**.
 
