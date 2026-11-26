@@ -76,7 +76,7 @@ Through this project, I demonstrated my ability to:
 - Present development and peacebuilding information in an accessible way.
 - Ensure consistency, readability, and professional presentation across a multi-page document.
 
-ACCESS FULL DOCUMENT ([Click Here](https://drive.google.com/[your-actual-link-here](https://drive.google.com/file/d/1NXarD5PlhL1-aNZdv17bcsXry1Djxgl5/view?usp=drive_link)))
+ACCESS FULL DOCUMENT ([Click Here](https://drive.google.com/file/d/1NXarD5PlhL1-aNZdv17bcsXry1Djxgl5/view?usp=drive_link))
 
   ## Tools & Skills Used
 - **Canva:** Slide design, layout, typography, icons, colour, visual hierarchy, and final presentation.
