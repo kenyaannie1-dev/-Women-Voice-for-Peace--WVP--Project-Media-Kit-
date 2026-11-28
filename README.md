@@ -1,4 +1,4 @@
-# Women-Voice-for-Peace-WVP-Project-Media-Kit
+#Media-Kits-Gallery
 ## Executive Summary
 I designed a 16-page media kit for the **Women’s Voice for Peace (WVP) Project**, implemented by **UmunthuPlus** in **Nkhotakota District, Malawi**Using **Canva**, I transformed detailed project information into a clear, visually engaging communication tool for stakeholders, partners, donors, and community audiences.
 
